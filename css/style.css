@@ -1,0 +1,46 @@
+.myrow
+{
+    background-color:#F7EFE5;
+}
+
+.mytext
+{
+ text-align: justify;
+}
+
+.text
+{
+    color: blue;
+}
+
+.color
+{
+    background-color: #f0f8ff;
+}
+
+.mycolor
+{
+    background-color: white;
+}
+.line
+{
+    height: 3px;
+    width: 80px;
+    background-color:red ;
+}
+#about
+{
+    background-image: url('../image/about.jpg');
+    background-size: cover;
+    height: 280px;
+}
+#about .col-sm-12
+{
+    background-color:rgba(0,0,0,0.5);
+}
+#about ,.col-sm-12 h1
+{
+    color: whitesmoke;
+    font-size: 50px;
+    line-height: 280px;
+}
